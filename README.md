@@ -1,4 +1,4 @@
-'m a Bachelor of Science in Applied Computing student with a passion for software development, cloud computing, and cybersecurity and forencics
+My name is Swendon jepkemoi.Iam a Bachelor of Science in Applied Computing student with a passion for software development, cloud computing, and cybersecurity and forencics
 
 Current Learning Goals
 Enhancing my programming skills in Python, JavaScript, and C++
